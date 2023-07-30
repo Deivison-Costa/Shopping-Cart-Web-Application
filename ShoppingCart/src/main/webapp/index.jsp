@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Online Shopping Cart</title>
-    <!-- Include Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -39,7 +38,6 @@
         <br>
         <a href="cart" class="btn btn-secondary">View Cart</a>
     </div>
-    <!-- Include Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
