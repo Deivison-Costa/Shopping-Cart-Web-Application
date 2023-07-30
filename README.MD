@@ -3,10 +3,10 @@
 - The cart's total value is calculated and displayed on the cart page.
 
 # Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- Eclipse Enterprise IDE (or any Java IDE of your choice)
-- Apache Tomcat server
-- Web browser (e.g., Chrome, Firefox)
+- Java Development Kit (JDK) 8 or higher;
+- Eclipse Enterprise IDE (or any Java IDE of your choice);
+- Apache Tomcat server;
+- Web browser (e.g., Chrome, Firefox).
 
 # How to Run the Application
 - Clone or download the project source code from the repository.
