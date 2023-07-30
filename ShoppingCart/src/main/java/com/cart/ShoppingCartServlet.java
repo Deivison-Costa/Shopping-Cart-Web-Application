@@ -19,8 +19,8 @@ public class ShoppingCartServlet extends HttpServlet {
             throws ServletException, IOException {
         String action = request.getParameter("action");
         String item = request.getParameter("item");
-        String price = request.getParameter("price"); // Get the price input from the form
-        String quantity = request.getParameter("quantity"); // Get the quantity input from the form
+        String price = request.getParameter("price");
+        String quantity = request.getParameter("quantity");
 
         if (action != null && item != null && price != null && quantity != null) {
             double itemPrice = Double.parseDouble(price);
