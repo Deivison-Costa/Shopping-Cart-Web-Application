@@ -2,6 +2,9 @@
 - This is a simple online shopping cart web application implemented in Java using the Eclipse Enterprise IDE and deployed on the Apache Tomcat server. The application allows users to add items to their shopping cart, view the cart, and remove items from it. 
 - The cart's total value is calculated and displayed on the cart page.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/f4b7066b-8ea3-4d1c-b8fd-04cf0eb2d585)
+![Figure_2](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/33f47733-1501-4d87-b95e-8e86dd7b1b17)
+
 # Prerequisites
 - Java Development Kit (JDK) 8 or higher;
 - Eclipse Enterprise IDE (or any Java IDE of your choice);
